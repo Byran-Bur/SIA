@@ -1,0 +1,13 @@
+D:\vscode\m3\SleepData\bin\Debug\netcoreapp3.1\SleepData.exe
+D:\vscode\m3\SleepData\bin\Debug\netcoreapp3.1\SleepData.deps.json
+D:\vscode\m3\SleepData\bin\Debug\netcoreapp3.1\SleepData.runtimeconfig.json
+D:\vscode\m3\SleepData\bin\Debug\netcoreapp3.1\SleepData.runtimeconfig.dev.json
+D:\vscode\m3\SleepData\bin\Debug\netcoreapp3.1\SleepData.dll
+D:\vscode\m3\SleepData\bin\Debug\netcoreapp3.1\SleepData.pdb
+D:\vscode\m3\SleepData\obj\Debug\netcoreapp3.1\SleepData.csprojAssemblyReference.cache
+D:\vscode\m3\SleepData\obj\Debug\netcoreapp3.1\SleepData.AssemblyInfoInputs.cache
+D:\vscode\m3\SleepData\obj\Debug\netcoreapp3.1\SleepData.AssemblyInfo.cs
+D:\vscode\m3\SleepData\obj\Debug\netcoreapp3.1\SleepData.csproj.CoreCompileInputs.cache
+D:\vscode\m3\SleepData\obj\Debug\netcoreapp3.1\SleepData.dll
+D:\vscode\m3\SleepData\obj\Debug\netcoreapp3.1\SleepData.pdb
+D:\vscode\m3\SleepData\obj\Debug\netcoreapp3.1\SleepData.genruntimeconfig.cache
